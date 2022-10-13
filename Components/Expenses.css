@@ -1,0 +1,16 @@
+.Expenses-div {
+    background-color: #C3F8FF;
+    border: double 10px rosybrown;
+    border-radius: 15px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    max-width: 90vw;
+    margin-inline: 80px;
+
+}
+
+.title-amount {
+    justify-content: space-around;
+    display: flex;
+
+}

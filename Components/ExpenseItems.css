@@ -1,0 +1,40 @@
+.ExpensesItems-div {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7FBCD2;
+    border: black solid 5px;
+    border-radius: 15px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    padding: 7px;
+
+}
+
+.amount-class {
+    background-image: radial-gradient(#C3F8FF, rosybrown);
+    border: solid black 3px;
+    border-radius: 15px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);  
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    padding: 20px;
+
+}
+
+/* .title-class {
+    background-color: dimgrey;
+    border: solid white 3px;
+    border-radius: 15px;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    padding: 20px;7
+    float: inline-start
+} */
+
+.ExpensesItems-div h2 {
+    font-size: 1.25rem;
+    flex: 1;
+    margin: 1.25rem 1rem;
+    color: black;
+}
